@@ -31,3 +31,5 @@ var twoSum = function(nums, target) {
 }
 
 console.log(twoSum([1,4,2,6,3,4,2], 4))
+
+
